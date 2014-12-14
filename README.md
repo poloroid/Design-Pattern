@@ -3,14 +3,14 @@
 ==============
 
 A project by  3 EPF Students:
->Mathilde Avezard
-    - Timothée Mérigaud
-    - Paul Renaudat.
+- Mathilde Avezard
+- Timothée Mérigaud
+- Paul Renaudat.
 
 The purpose of this java program is to illustrate three design patterns:
-    - Composite
-    - Visitor
-    - Iterator.
+- Composite
+- Visitor
+- Iterator.
 
 To import this project:
 ```sh

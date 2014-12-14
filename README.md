@@ -3,7 +3,7 @@
 ==============
 
 A project by  3 EPF Students:
-    - Mathilde Avezard
+>Mathilde Avezard
     - Timothée Mérigaud
     - Paul Renaudat.
 

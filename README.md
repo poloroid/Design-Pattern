@@ -1,10 +1,21 @@
-Design-Pattern
+# Design-Pattern
 
 ==============
 
-A project by  3 EPF Students, Mathilde Avezard, Timothée Mérigaud and Paul Renaudat.
-
-
+A project by  3 EPF Students:
+    - Mathilde Avezard
+    - TimothÃ©e MÃ©rigaud
+    - Paul Renaudat.
 
 The purpose of this java program is to illustrate three design patterns:
-Composite, Visitor and Iterator.
+    - Composite
+    - Visitor
+    - Iterator.
+
+To import this project:
+```sh
+$ git clone https://github.com/poloroid/Design-Pattern 
+```
+
+In Eclipse, click File-->Import-->General-->Existing Projects into Workspace
+Run Test.java and enjoy!

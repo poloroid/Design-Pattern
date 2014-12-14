@@ -40,7 +40,7 @@ class Manager implements Visit {
 
 	@Override
 	public void visit(Client c) {
-		System.out.println(this.getName()+"visited Client:" + c.name);
+		System.out.println(this.getName()+" visited Client:" + c.name);
 
 	}
 

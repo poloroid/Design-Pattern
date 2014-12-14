@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class Test {
 	public static void main(String[] args) {
 		Employee[] e1 = {new Employee("Aaron", 50),
@@ -19,6 +21,19 @@ class Test {
 		m.listEmployees();
 
 		Client c= new Client("Bob");
-		m1.visit(c);
+		c.accept(m1);
+		
+		ArrayList<String> pizzas = new ArrayList<String>();
+		pizzas.add("Hawaiienne");
+		pizzas.add("Orientale");
+		pizzas.add("Texane");
+		pizzas.add("Supreme");
+		pizzas.add("Raclette");
+		pizzas.add("Barbecue");
+		pizzas.add("Pepperoni Lovers");
+		int tlph=0636666475;
+		Pizzeria p = new Pizzeria("GianCarlo",tlph,pizzas);
+		p.accept(m1);
+		p.accept(m2);
 	}	
 }
